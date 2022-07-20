@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <h1>Tambah Barang</h1>
+    <h1>Barang Tambah</h1>
     <form action="<?php echo site_url('Barang/prosesTambah'); ?>" method="post">
         <label>Nama Barang</label><input type="text" name="nama"><br>
         <label>Stok Barang</label><input type="text" name="stok"><br>
